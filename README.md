@@ -9,7 +9,10 @@
 ## Características
 
 - Dos jugadores.
+- Pantalla de inicio con un mensaje de bienvenida. 
 - Menú de reinicio cuando la pelota sale de los límites.
+- La velocidad de la pelota incrementa automáticamente al contacto con las paletas de los usuarios.
+- El Contador incrementa cuando la pelota hace contacto con la paleta.
 
 ## Requisitos
 
